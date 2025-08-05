@@ -1,0 +1,6 @@
+{
+  "category": "temperature",
+  "fromUnit": "celsius",
+  "toUnit": "fahrenheit",
+  "value": 25
+}
